@@ -1,9 +1,6 @@
-# Hi 👋, I'm Simin
+# Hi 👋, I'm Simin   ![girlworkingonlaptop](https://github.com/SiminNaghi/about/assets/121794459/3a6a03e2-6f7a-4d0c-9c76-69ab9f22002b)
 
 A passionate fullstack developer
-
-![girlworkingonlaptop](https://github.com/SiminNaghi/about/assets/121794459/3a6a03e2-6f7a-4d0c-9c76-69ab9f22002b)
-
 
 🔭 I’m currently working on various web development projects.
 
