@@ -13,9 +13,9 @@ I'm excited to work in an ENVIRONMENT where I can continuously LEARN, GROW, and 
 
 💬 Ask me about full stack development, especially with JavaScript frameworks.
 
-📫 How to reach me: [simin.naghi@outlook.com]
+📫 How to reach me: simin.naghi@outlook.com
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[SiminNaghi]&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SiminNaghi&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[SiminNaghi]&layout=compact)
 
