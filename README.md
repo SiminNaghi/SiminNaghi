@@ -8,7 +8,7 @@ Teamwork is my mantra. I value collaboration, sharing knowledge, and learning in
 
 🌱 Currently, I’m sharpening my skills in the MERN-Stack.
 
-📫 Interested in connecting? Feel free to reach out at simin.naghi@outlokk.com.
+📫 Interested in connecting? Feel free to reach out at simin.naghi@outlook.com.
 
 ## I work with:
 <!-- Icons -->
