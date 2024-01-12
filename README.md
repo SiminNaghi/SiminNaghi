@@ -24,9 +24,8 @@ I'm excited to work in an ENVIRONMENT where I can continuously LEARN, GROW, and 
 
 
 ## Languages and Tools:
-![HTML5](
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-          )
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="50" height="50" />
+
 
 
 - JavaScript
