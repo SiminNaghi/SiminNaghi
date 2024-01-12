@@ -18,9 +18,10 @@ I strongly believe in the POWER of TEAMWORK and I'm excited to work in an ENVIRO
   </tr>
 </table>
 
-
 ## I work with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="50" height="50" />
@@ -38,15 +39,10 @@ I strongly believe in the POWER of TEAMWORK and I'm excited to work in an ENVIRO
 
 
 
+
           
 
 
 
-- JavaScript
-- React
-- Node.js
-- Express
-- MongoDB
-- Git
-- Linux
+
   
