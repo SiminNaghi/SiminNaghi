@@ -13,9 +13,13 @@ I'm excited to work in an ENVIRONMENT where I can continuously LEARN, GROW, and 
 
 📫 How to reach me: simin.naghi@outlook.com
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SiminNaghi&show_icons=true)
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=SiminNaghi&show_icons=true&theme=light&count_private=true" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiminNaghi&theme=light&hide_langs_below=1" /></td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiminNaghi&layout=compact)
 
 
 
