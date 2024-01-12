@@ -2,7 +2,7 @@
 
 a Junior Full-Stack Web Developer with a background in marketing, I'm passionately committed to developing products that deliver REAL VALUE to users and align with business goals.
 
-I strongly believe in the POWER of TEAMWORK and have gained valuable experience working both as a TEAM MEMBER and a TEAM LEADER.
+I strongly believe in the POWER of TEAMWORK and 
 
 I'm excited to work in an ENVIRONMENT where I can continuously LEARN, GROW, and make a POSITIVE IMPACT. 
 
@@ -24,6 +24,9 @@ I'm excited to work in an ENVIRONMENT where I can continuously LEARN, GROW, and 
 
 
 ## Languages and Tools:
+![HTML5](
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+          )
 
 
 - JavaScript
