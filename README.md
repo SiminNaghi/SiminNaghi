@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Simin,
 
-I’m a Junior Full-Stack Web Developer blending tech skills with marketing insights. My focus is on creating impactful products that meet user needs and business objectives.
+a Junior Full-Stack Web Developer blending tech skills with marketing insights. My focus is on creating impactful products that meet user needs and business objectives.
 
 Teamwork is my mantra. I value collaboration, sharing knowledge, and learning in a team setting to enhance growth and create a positive impact.
 
