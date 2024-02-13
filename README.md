@@ -11,7 +11,7 @@ Teamwork is my mantra. I value collaboration, sharing knowledge, and learning in
 📫 Interested in connecting? Feel free to reach out at simin.naghi@outlook.com.
 
 ## I work with:
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,html,css,sass,bootstrap,js,react,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,html,css,sass,bootstrap,js,ts,react,nodejs,express,mongodb)](https://skillicons.dev)
 
 
 <table>
